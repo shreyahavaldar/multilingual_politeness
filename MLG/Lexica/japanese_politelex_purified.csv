@@ -1,0 +1,523 @@
+CATEGORY,word
+apologetic,ごめん
+apologetic,ごめんなさい
+apologetic,すいません
+apologetic,すみません
+apologetic,スミマセン
+apologetic,恐れ入ります
+apologetic,残念です
+apologetic,申し訳ありません
+apologetic,申し訳ない
+deference,いい
+deference,かわいい
+deference,きれい
+deference,すごい凄
+deference,すごい厲
+deference,すごい強
+deference,すごい棒
+deference,すごい牛
+deference,すごい綺
+deference,すごい美
+deference,すごく上手い
+deference,すごく綺麗
+deference,すばらしい
+deference,どうぞ
+deference,よい
+deference,よろしく
+deference,カワイイ
+deference,シャープ
+deference,ドライ
+deference,凄
+deference,厲
+deference,可愛い
+deference,強
+deference,強力
+deference,強大
+deference,悪い
+deference,棒
+deference,牛
+deference,立派
+deference,素敵
+deference,素晴らしい
+deference,素晴らしく
+deference,綺
+deference,綺麗
+deference,美
+deference,美しい
+deference,美しく
+deference,良い
+deference,良かっ
+deference,良く
+direct_question,who
+direct_question,いくつ
+direct_question,いくら
+direct_question,いったい
+direct_question,いつ
+direct_question,どう
+direct_question,どうして
+direct_question,どうやって
+direct_question,どこ
+direct_question,どのくらい
+direct_question,どのぐらい
+direct_question,どのぐらいの量
+direct_question,どのような
+direct_question,どのように
+direct_question,どの方法で
+direct_question,どの程度
+direct_question,どれくらい
+direct_question,なぜ
+direct_question,なに
+direct_question,なんで
+direct_question,ドコ
+direct_question,レッダー
+direct_question,何
+direct_question,何で
+direct_question,何処
+direct_question,何故
+direct_question,何時
+direct_question,誰
+direct_question,誰が
+emergency,すぐに
+emergency,できるだけ早く
+emergency,切実に
+emergency,即刻
+emergency,即座に
+emergency,大至急
+emergency,急
+emergency,急いで
+emergency,急務
+emergency,早急に
+emergency,緊急
+emergency,至急
+emergency,迅速に
+emergency,速い
+emergency,速く
+emergency,速やかに
+emergency,遅い
+factuality,実際
+factuality,本当に
+factuality,正直に言って
+first_person_singular,あたし
+first_person_singular,おれ
+first_person_singular,お前
+first_person_singular,ぼく
+first_person_singular,わし
+first_person_singular,わたくし
+first_person_singular,わたし
+first_person_singular,オレ
+first_person_singular,俺
+first_person_singular,僕
+first_person_singular,私
+first_person_singular,自分
+gratitude,ありがたい
+gratitude,ありがと
+gratitude,ありがとう
+gratitude,いた
+gratitude,うれしい
+gratitude,おかげ
+gratitude,お礼
+gratitude,お礼を言います
+gratitude,お礼申し上げます
+gratitude,ござい
+gratitude,嬉しい
+gratitude,感謝
+gratitude,感謝しています
+gratitude,感謝の意を表します
+gratitude,有り難い
+gratitude,有り難う
+gratitude,有難い
+gratitude,有難う
+gratitude,謝意
+greeting,いい
+greeting,おい
+greeting,おき
+greeting,おく
+greeting,おけ
+greeting,おはよう
+greeting,こんにちは
+greeting,こんにちわ
+greeting,こんばんは
+greeting,こんばんわ
+greeting,さようなら
+greeting,さよなら
+greeting,とい
+greeting,とけ
+greeting,ねえ
+greeting,はじめまして
+greeting,もしもし
+greeting,やあ
+greeting,よい
+greeting,ハロ
+greeting,ハロー
+greeting,悪い
+greeting,良い
+greeting,良かっ
+greeting,良く
+hedge,あまり
+hedge,ある意味で
+hedge,ある程度
+hedge,ある程度まで
+hedge,ある種
+hedge,いくらか
+hedge,おおよそ
+hedge,おそらく
+hedge,かなり
+hedge,かもしれない
+hedge,くらい
+hedge,ぐらい
+hedge,けど
+hedge,しかし
+hedge,しない
+hedge,すこし
+hedge,そこ
+hedge,そして
+hedge,それ
+hedge,それでも
+hedge,それなりに
+hedge,たいてい
+hedge,たぶん
+hedge,だいたい
+hedge,だけ
+hedge,だろう
+hedge,ちょっと
+hedge,でき
+hedge,できる
+hedge,できるだけ
+hedge,なるべく
+hedge,なんとか
+hedge,なんとなく
+hedge,ので
+hedge,ひょっとすると
+hedge,ほとんど
+hedge,ほぼ
+hedge,まあ
+hedge,また
+hedge,まったく
+hedge,みせ
+hedge,みせる
+hedge,もしかすると
+hedge,やはり
+hedge,やや
+hedge,ジャッジ
+hedge,ミーティング
+hedge,一部
+hedge,上下
+hedge,不可欠
+hedge,全く
+hedge,出来
+hedge,出来る
+hedge,可能
+hedge,問いかけ
+hedge,多くの
+hedge,多分
+hedge,多少
+hedge,多数
+hedge,大体
+hedge,大半
+hedge,大多数
+hedge,大概
+hedge,尋ね
+hedge,少々
+hedge,少し
+hedge,少しだけ
+hedge,少ない
+hedge,少数
+hedge,少量
+hedge,幾分
+hedge,必用
+hedge,必要
+hedge,恐らく
+hedge,意志
+hedge,意思
+hedge,推察
+hedge,推測
+hedge,極力
+hedge,殆ど
+hedge,確か
+hedge,確認
+hedge,答え
+hedge,答える
+hedge,若干
+hedge,行える
+hedge,要る
+hedge,見せ
+hedge,見せる
+hedge,見積もり
+indirect_btw,いう
+indirect_btw,えーと
+indirect_btw,けれど
+indirect_btw,けれども
+indirect_btw,さて
+indirect_btw,しかし
+indirect_btw,そもそも
+indirect_btw,それから
+indirect_btw,それで
+indirect_btw,それと
+indirect_btw,それなら
+indirect_btw,それにしても
+indirect_btw,そんな
+indirect_btw,たしかに
+indirect_btw,だから
+indirect_btw,ちなみに
+indirect_btw,つまり
+indirect_btw,つまるところ
+indirect_btw,というのも
+indirect_btw,ところで
+indirect_btw,なぜなら
+indirect_btw,ゃってください
+indirect_btw,やはり
+indirect_btw,ようするに
+indirect_btw,よって
+indirect_btw,わけ
+indirect_btw,云う
+indirect_btw,何故
+indirect_btw,因みに
+indirect_btw,実は
+indirect_btw,当然
+indirect_btw,思う
+indirect_btw,正しい
+indirect_btw,正しかっ
+indirect_btw,正しく
+indirect_btw,無論
+indirect_btw,確か
+indirect_btw,要するに
+indirect_btw,要は
+indirect_btw,言う
+indirect_btw,言っ
+indirect_btw,間違っ
+please,お願い
+please,お願いします
+please,どうか
+please,ヘルプ
+please,手伝って
+please,聞い
+please,聞か
+please,聞き
+please,聞く
+please,聞け
+please,聞こ
+please,頼む
+praise,いい
+praise,かっこいい
+praise,かわいい
+praise,きれい
+praise,すごい
+praise,すばらしい
+praise,ですね
+praise,どうぞ
+praise,よい
+praise,よろしく
+praise,カワイイ
+praise,シャープ
+praise,ドライ
+praise,上手
+praise,優れた
+praise,可愛い
+praise,嬉しい
+praise,強力
+praise,強大
+praise,悪い
+praise,感動的
+praise,最高
+praise,牛
+praise,立派な
+praise,素敵
+praise,素敵な
+praise,素晴らしい
+praise,素晴らしく
+praise,綺麗
+praise,美しい
+praise,美しく
+praise,良い
+praise,良かっ
+praise,良く
+praise,驚くべき
+promise,右
+promise,右側
+promise,左上
+promise,左下
+promise,左側
+promise,必ず
+promise,決定的
+promise,確かに
+promise,確実に
+promise,確認
+promise,絶対
+promise,絶対に
+promise,間違いなく
+second_person,あなた
+second_person,貴方
+taboo,あほ
+taboo,いじめる
+taboo,いたずら
+taboo,うざい
+taboo,うるさい
+taboo,きえろ
+taboo,くそくらえ
+taboo,くそったれ
+taboo,くたばれ
+taboo,ぐうたら
+taboo,このやろう
+taboo,さわぐ
+taboo,ざけんな
+taboo,しにおちろ
+taboo,しね
+taboo,しんじまえ
+taboo,だまれ
+taboo,だめだこいつ
+taboo,ちくしょう
+taboo,てめえ
+taboo,でぶ
+taboo,どけ
+taboo,ぬけめ
+taboo,はげ
+taboo,はずかしい
+taboo,ひどい
+taboo,ふざけるな
+taboo,ふざけんな
+taboo,ぶさいく
+taboo,ぶす
+taboo,へたくそ
+taboo,ぼけ
+taboo,まぬけ
+taboo,アホ
+taboo,カメ
+taboo,キズ
+taboo,ディック
+taboo,ハイブリッド
+taboo,バカ
+taboo,プー
+taboo,ムダ
+taboo,両親
+taboo,人生
+taboo,売春
+taboo,尿
+taboo,息子
+taboo,悲しみ
+taboo,愚か
+taboo,戻っ
+taboo,戻り
+taboo,戻る
+taboo,戻ろ
+taboo,所有
+taboo,拷問
+taboo,死な
+taboo,死ぬ
+taboo,死ん
+taboo,母親
+taboo,無意味
+taboo,父親
+taboo,皮肉
+taboo,肥料
+taboo,詐欺
+taboo,馬鹿
+taboo,魂
+taboo, あほ
+taboo, いじめる
+taboo, いたずら
+taboo, うざい
+taboo, うるさい
+taboo, きえろ
+taboo, くそくらえ
+taboo, くそったれ
+taboo, くたばれ
+taboo, ぐうたら
+taboo, このやろう
+taboo, さわぐ
+taboo, ざけんな
+taboo, しにおちろ
+taboo, しね
+taboo, しんじまえ
+taboo, だまれ
+taboo, だめだこいつ
+taboo, ちくしょう
+taboo, てめえ
+taboo, でぶ
+taboo, どけ
+taboo, ぬけめ
+taboo, はげ
+taboo, はずかしい
+taboo, ひどい
+taboo, ふざけるな
+taboo, ふざけんな
+taboo, ぶさいく
+taboo, ぶす
+taboo, へたくそ
+taboo, ぼけ
+taboo, まぬけ
+taboo, アホ
+taboo, カメ
+taboo, キズ
+taboo, ディック
+taboo, ハイブリッド
+taboo, バカ
+taboo, プー
+taboo, ムダ
+taboo, 両親
+taboo, 人生
+taboo, 売春
+taboo, 尿
+taboo, 息子
+taboo, 悲しみ
+taboo, 愚か
+taboo, 戻っ
+taboo, 戻り
+taboo, 戻る
+taboo, 戻ろ
+taboo, 所有
+taboo, 拷問
+taboo, 死な
+taboo, 死ぬ
+taboo, 死ん
+taboo, 母親
+taboo, 無意味
+taboo, 父親
+taboo, 皮肉
+taboo, 肥料
+taboo, 詐欺
+taboo, 馬鹿
+taboo, 魂
+together,いっしょ
+together,ユニフォーム
+together,一同
+together,一緒
+together,一緒に
+you_direct,あんた
+you_direct,きみ
+you_direct,貴方
+you_honorific,あなた
+you_honorific,あなたくん
+you_honorific,あなたさま
+you_honorific,あなたさん
+you_honorific,あなた君
+you_honorific,あなた様
+you_honorific,さま
+you_honorific,さん
+you_honorific,紳士
+you_honorific,貴方
+you_honorific,貴方くん
+you_honorific,貴方さま
+you_honorific,貴方さん
+you_honorific,貴方君
+you_honorific,貴方様
+you_honorific,逃し
+you_honorific,逃す
+first_person_plural,私たち
+first_person_plural,僕たち
+first_person_plural,俺たち
+first_person_plural,我々
+first_person_plural,われわれ
+ingroup_ident,みんな
+ingroup_ident,皆さん
+ingroup_ident,全員
+ingroup_ident,各位
+ingroup_ident,仲間
+ingroup_ident,チーム
+ingroup_ident,団体
+ingroup_ident,グループ
+ingroup_ident,同僚
+ingroup_ident,メンバー
+ingroup_ident,連中
+ingroup_ident,一同
+ingroup_ident,同志
+ingroup_ident,仲間たち
