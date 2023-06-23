@@ -220,7 +220,6 @@ if __name__ == "__main__":
 
             # batch size 64, learning rate start with 1e-3, epochs save model state at every epoch
             # look up how to save model state, save at each epoch, early stop based on when validation loss stops decreasing
-            #os.mkdir('/nlp/data/mpressi/'+finetune_filename)
             training_args = TrainingArguments(
                 "models/" + language + '/' + str(lr),
                 evaluation_strategy="epoch",
