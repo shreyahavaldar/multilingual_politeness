@@ -36,14 +36,14 @@ def construct_politeness_strategy_regexes(lexica_df, language):
     return regexes
 
 def load_lexica():
-    en_lex = pd.read_csv('../MLG/Lexica/english_politelex.csv')
-    es_lex = pd.read_csv('../MLG/Lexica/spanish_politelex_purified.csv')
-    ja_lex = pd.read_csv('../MLG/Lexica/japanese_politelex_purified.csv')
-    zh_lex = pd.read_csv('../MLG/Lexica/chinese_politelex.csv')
+    en_lex = pd.read_csv('../MLC/Lexica/english_politelex.csv')
+    es_lex = pd.read_csv('../MLC/Lexica/spanish_politelex_purified.csv')
+    ja_lex = pd.read_csv('../MLC/Lexica/japanese_politelex_purified.csv')
+    zh_lex = pd.read_csv('../MLC/Lexica/chinese_politelex.csv')
 
     # To check coverage of machine translated lexica
-    # es_lex = pd.read_csv('../MLG/Expansion_Files/spanish_politelex_translated.csv')
-    # ja_lex = pd.read_csv('../MLG/Expansion_Files/japanese_politelex_translated.csv')
+    # es_lex = pd.read_csv('../MLC/Expansion_Files/spanish_politelex_translated.csv')
+    # ja_lex = pd.read_csv('../MLC/Expansion_Files/japanese_politelex_translated.csv')
 
     return en_lex, es_lex, ja_lex, zh_lex
 
